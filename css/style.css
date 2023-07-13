@@ -197,7 +197,7 @@ padding: 20px;
 .card p {
     padding: 10px;
     margin: 0;
-    text-align: left;
+    text-align: justify;
 }
 .card:hover{
     transform:scale(1.1);
